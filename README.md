@@ -31,7 +31,7 @@ GrLivArea: Above grade (ground) living area square feet
 
 For each feature in the subset, create a scatter plot that shows the feature on the x-axis and `SalePrice` on the y-axis.
 
-![image description](linear_salesPrice.jpg)
+![image description](images/linear_salesPrice.jpg)
 
 All three of these features seem to have a linear relationship with SalePrice
 
@@ -41,7 +41,8 @@ All three have a few outliers that could potentially skew the resu
 
 
 ## The Multiple Linear Regression Models
-![image description](multipleLinear.jpg)
+![image description](images/multipleLinear.jpg)
+
 
 LotArea seems to be a much weaker
 predictor than it initially seemed. The partial regression plot is showing only the
